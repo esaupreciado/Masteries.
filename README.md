@@ -1,2 +1,2 @@
-# masteries
-my masteries will be here
+# Masteries
+All the tutorials and advices that I will create for Mastery points should be here!
